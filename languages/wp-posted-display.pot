@@ -1,0 +1,191 @@
+# Copyright (C) 2016 WordPress Posted Display
+# This file is distributed under the same license as the WordPress Posted Display package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Posted Display 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-posted-display\n"
+"POT-Creation-Date: 2016-03-20 12:56:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/wp-posted-display-admin-list.php:53
+msgid "Posted Display Settings List"
+msgstr ""
+
+#: includes/wp-posted-display-admin-list.php:54 wp-posted-display.php:129
+msgid "Add New"
+msgstr ""
+
+#: includes/wp-posted-display-admin-list.php:65
+msgid "ID"
+msgstr ""
+
+#: includes/wp-posted-display-admin-list.php:66
+#: includes/wp-posted-display-admin-post.php:109
+msgid "Type"
+msgstr ""
+
+#: includes/wp-posted-display-admin-list.php:67
+#: includes/wp-posted-display-admin-post.php:105
+msgid "Template Name"
+msgstr ""
+
+#: includes/wp-posted-display-admin-list.php:68
+msgid "Short Code"
+msgstr ""
+
+#: includes/wp-posted-display-admin-list.php:88
+msgid "Edit"
+msgstr ""
+
+#: includes/wp-posted-display-admin-list.php:91
+msgid "Delete"
+msgstr ""
+
+#: includes/wp-posted-display-admin-list.php:98
+msgid "Without registration."
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:86 wp-posted-display.php:112
+#: wp-posted-display.php:113
+msgid "Posted Display Settings"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:104
+msgid "Common settings"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:118
+#: includes/wp-posted-display-admin-widget.php:66
+msgid "Template"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:120
+msgid "Child elements of the li element is markup."
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:121
+msgid ""
+"Date, post title, post summary, tags, categories, author name, you can view "
+"the featured image."
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:122
+msgid "Please set as \"##item##\" the items to be displayed."
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:136
+msgid "No Image Path"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:139
+msgid ""
+"It specifies the posts of Alternative Image path that does not set the "
+"featured image."
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:146
+msgid "Type: Cookie settings"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:147
+msgid "Save Term"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:149
+msgid "day"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:151
+msgid "Save Item"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:153
+msgid "item"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:160
+msgid "Type: Posts settings"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:161
+msgid "Output Posts ID"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:171
+msgid "Type: Category settings"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:172
+msgid "Output Category ID"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:182
+msgid "Type: Tag settings"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:183
+msgid "Output Tag ID"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:193
+msgid "Type: User settings"
+msgstr ""
+
+#: includes/wp-posted-display-admin-post.php:194
+msgid "Output User ID"
+msgstr ""
+
+#: includes/wp-posted-display-admin-widget.php:26
+msgid "Posted Display Widget"
+msgstr ""
+
+#: includes/wp-posted-display-admin-widget.php:27 wp-posted-display.php:128
+msgid "Posted Display"
+msgstr ""
+
+#: includes/wp-posted-display-admin-widget.php:60
+msgid "Title"
+msgstr ""
+
+#: includes/wp-posted-display-admin-widget.php:79
+msgid "Sorted by"
+msgstr ""
+
+#: includes/wp-posted-display-admin-widget.php:92
+msgid "Number of posts to show"
+msgstr ""
+
+#: includes/wp-posted-display-admin-widget.php:97
+msgid "Please register of template."
+msgstr ""
+
+#: wp-posted-display.php:120 wp-posted-display.php:121
+msgid "All Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WordPress Posted Display"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/miiitaka/wp-posted-display"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Plug-in Posted Display Widget & ShortCode Add. You can also save and display "
+"your browsing history to Cookie."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kazuya Takami"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://programp.com/"
+msgstr ""
